@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Once upon a time.
+=======
+Once upon a time ...
+>>>>>>> d772114f1cbb9a8f3842d694e4f63673ecfe4040
 
